@@ -131,3 +131,14 @@ The **Gym Membership & Workout Plan Tracker** successfully demonstrates how mode
 By combining **Flutter’s cross-platform UI** with **Firebase’s secure real-time backend**, it provides a reliable, scalable, and engaging solution for both gym administrators and members.  
 
 This project builds a strong foundation for future enhancements, paving the way for a **commercially viable fitness management platform**.
+
+## Looks and Feel 
+
+### UI / UX
+![App Screenshot](assets/home.jpeg)
+![App Screenshot](assets/workout.jpeg)
+![App Screenshot](assets/progress.jpeg)
+![App Screenshot](assets/nutrition.jpeg)
+
+### Database [Firebase]
+![App Screenshot](assets/database.jpeg)
